@@ -19,7 +19,7 @@
                              <server>TomcatServer</server>
 			     <username>admin</username>
 			     <password>password</password>
-                             <path>/myapp</path>
+                             <path>/helloLiatrio</path>
                           </configuration>
                         </plugin>
 			<plugin>
